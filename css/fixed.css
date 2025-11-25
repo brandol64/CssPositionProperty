@@ -1,0 +1,18 @@
+ body{
+            background-color: rgb(163, 88, 88);
+            position: fixed;
+            height: 900vh;
+        }
+
+        .pic {
+            width: 300px;
+            height: 300px;
+            position: static;
+        }
+
+        .corner-link {
+            position: fixed;
+            left: 20px;
+            bottom: 20px;
+        }
+        
